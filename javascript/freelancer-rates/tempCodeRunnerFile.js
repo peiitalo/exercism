@@ -1,1 +1,0 @@
-let month = Math.floor(numDays / daysInMonth);
